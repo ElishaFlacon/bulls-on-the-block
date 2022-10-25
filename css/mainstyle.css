@@ -255,6 +255,7 @@ body._lock {
   font-weight: 400;
   letter-spacing: 1.4px;
   margin-bottom: 16px;
+  white-space: nowrap;
 }
 
 .blocks__paragrof {
