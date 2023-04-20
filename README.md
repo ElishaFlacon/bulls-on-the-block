@@ -1,5 +1,5 @@
 <h1> 
-     📝 Bulls on the Block
+     🐮 Bulls on the Block
 </h1>
 
 <h3>
