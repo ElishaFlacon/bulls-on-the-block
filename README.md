@@ -15,11 +15,10 @@ NFT лендинг, сделан на нативной верстке с исп�
   🛠️ Инструменты, которые использовались при разработке приложения:
 </h2>
 
-- html
-- css
-- js
-- sass
-- bem
+- JavaScript
+- HTML CSS
+- SCSS
+- BEM
 
 
 
@@ -31,9 +30,9 @@ NFT лендинг, сделан на нативной верстке с исп�
   🚀 Зпуск приложения:
 </h2>
 
-- git clone https://github.com/ElishaFlacon/bulls-on-the-block.git
-- cd bulls-on-the-block
-- start index.html
+- `git clone https://github.com/ElishaFlacon/bulls-on-the-block.git`
+- `cd bulls-on-the-block`
+- `start index.html`
 <h3>
     Запускаем, не работет, ура! 🗿🚬
 </h3>
